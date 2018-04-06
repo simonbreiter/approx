@@ -36,4 +36,4 @@ store.dispatch({ type: 'DECREMENT' })
 
 ## Credits
 
-All credits goes to [Dan Abramov](https://github.com/gaearon)
+All credit goes to [Dan Abramov](https://github.com/gaearon)
