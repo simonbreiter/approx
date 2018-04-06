@@ -8,6 +8,7 @@
   "scripts": {
     "webpack:watch": "webpack --mode=development --watch",
     "test:watch": "jest --watch",
+    "test": "jest",
     "dev": "npm-run-all --parallel webpack:watch test:watch",
     "build": "webpack --mode=production"
   },
